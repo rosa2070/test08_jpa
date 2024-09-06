@@ -1,0 +1,1 @@
+mariadb -uroot -p1234
